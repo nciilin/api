@@ -1,0 +1,23 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "深圳野生动物园(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_600x330_28bda6b0.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1508/44/c8fb5daa16f5f99f8201f323426b3516.water.jpg_r_800x800_e7642201.jpg",
+      "http://img1.qunarzz.com/sight/p0/1508/79/334ed37d1fa6d6bf9baa0c7296ce4084.water.jpg_r_800x800_9a0660af.jpg"
+    ],
+    "categoryList": [{
+      "title": "成人票",
+      "price": "228.9"
+    }, {
+      "title": "学生票",
+      "price": "190"
+    }, {
+      "title": "儿童票",
+      "price": "140"
+    }, {
+      "title": "亲子票",
+      "price": "339.1"
+    }]
+  }
+}
